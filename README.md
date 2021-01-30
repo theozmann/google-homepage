@@ -1,0 +1,1 @@
+Hello! This is going to be a simple google home page look-a-like to practice html and css.
