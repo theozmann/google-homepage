@@ -1,1 +1,3 @@
 Hello! This is going to be a simple google home page look-a-like to practice html and css.
+
+Edit #1 - 1/30/21. So I was totally confused about forms, I don't think the documentation I read was what you'd call 'awe-inspiring', however afeter doing some more research I found a fantastic tutorial and better documentation on the subject. I will be editing and improving my current form tomorrow after work.
