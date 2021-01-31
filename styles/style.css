@@ -36,8 +36,19 @@ li {
 }
 
 .search-bar {
-    padding-top: 2rem;
+    padding-top: 1rem;
     display: flex;
    justify-content: center;
    align-items:flex-start;
+}
+
+.search-buttons {
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.button1 {
+    padding: .7rem .6rem;
+    margin: 0 0.3rem;
 }
