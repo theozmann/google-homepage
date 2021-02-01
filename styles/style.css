@@ -42,13 +42,25 @@ li {
    align-items:flex-start;
 }
 
-.search-buttons {
-    padding-top: 1rem;
-    display: flex;
-    justify-content: center;
-}
-
 .button1 {
     padding: .7rem .6rem;
     margin: 0 0.3rem;
+}
+
+.search {
+    width: 582px;
+    height: 44px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-bottom: 3rem;
+}
+
+
+.button {
+
+    margin: 0 1rem;
+    width: 4.5vw;
+    height: 3.5vh;
 }
